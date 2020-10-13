@@ -2,7 +2,7 @@
 
 ### 1. 개요(introduction)
 * HTML/CSS 실력향상을 위해 음악 플레이어의 디자인을 만들었습니다. 
-To have a better understanding about the usage of HTML and CSS, I copied a music player FE. 
+To have a better understanding of HTML/CSS, I copied a music player FE. 
 <br>
 
 ### 2. 화면구성(UI)
